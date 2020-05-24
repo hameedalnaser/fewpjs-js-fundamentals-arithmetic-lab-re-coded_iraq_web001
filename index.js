@@ -1,5 +1,5 @@
 
 // Write your code here
-5+5
+31*2
 100/34
 600%54
